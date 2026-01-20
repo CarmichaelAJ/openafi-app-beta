@@ -31206,7 +31206,7 @@ var $async$FT=A.i(function(a,b){if(a===1)return A.j(b,r)
 for(;;)switch(s){case 0:if($.an==null)A.bcT()
 $.an.toString
 s=2
-return A.c($.bap().IQ(0,".env"),$async$FT)
+return A.c($.bap().IQ(0,"env.public"),$async$FT)
 case 2:q=t.s
 p=A.ec(A.b(["PT_FRONTEND_VITE_FIREBASE_API_KEY","FR_FRONTEND_VITE_FIREBASE_API_KEY"],q))
 o=A.ec(A.b(["PT_FRONTEND_VITE_FIREBASE_APP_ID","FR_FRONTEND_VITE_FIREBASE_APP_ID"],q))

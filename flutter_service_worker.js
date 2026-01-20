@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "7ee31f7c7d148ff46f56efbfe4f15ce9",
-"assets/AssetManifest.bin.json": "337254dbdc13c3c20458267dd262f5c5",
+const RESOURCES = {"assets/AssetManifest.bin": "10a5f634df92cda3a3afa3c64da0acfe",
+"assets/AssetManifest.bin.json": "f69c9f644bae2baeff8aed5489791fcc",
 "assets/assets/afi_tracking.json": "7ba95479aefe6875d8d4381476b98c95",
 "assets/assets/ai-avi.jpg": "53f99ca74cac5fd354312ff78f1670db",
 "assets/assets/data/pay_chart.json": "0cf14b707640d8aed4dc494a6a8658f5",
@@ -13,6 +13,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "7ee31f7c7d148ff46f56efbfe4f15ce9
 "assets/assets/user-avi.jpg": "3acb89d706eb1672bbabb5f1d1b36b26",
 "assets/assets/wallpapers/day_ops_wallpaper.jpg": "78236ba0df04b18d92436208db1e3dbd",
 "assets/assets/wallpapers/night_ops_wallpaper.jpg": "35b305c55ef1aeea1fec20e7627248d9",
+"assets/env.public": "f0a5e31ace9dfda6da9e0df1a83d707c",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "9feae7d356e227c92429527772bf53e3",
 "assets/NOTICES": "e5e752088a300b575ce7aebb22f722fb",
@@ -34,14 +35,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "7ee31f7c7d148ff46f56efbfe4f15ce9
 "canvaskit/skwasm_heavy.wasm": "b0be7910760d205ea4e011458df6ee01",
 "favicon.png": "d0d4e1330751c07a4bbcd88e5d7dcb1c",
 "flutter.js": "24bc71911b75b5f8135c949e27a2984e",
-"flutter_bootstrap.js": "7108d1af74a634acea4403e572202f36",
+"flutter_bootstrap.js": "9c635434c3570b101730ad816a117cac",
 "icons/Icon-192.png": "ecc28c81a5e7a94a5e0667701ac1f58a",
 "icons/Icon-512.png": "435451fa28ce819b9d84c712fbb596af",
 "icons/Icon-maskable-192.png": "ecc28c81a5e7a94a5e0667701ac1f58a",
 "icons/Icon-maskable-512.png": "435451fa28ce819b9d84c712fbb596af",
 "index.html": "21d18813a024d5ca8bde4354854f10c2",
 "/": "21d18813a024d5ca8bde4354854f10c2",
-"main.dart.js": "ec4472bd5b75e9cd603c0568a8d99575",
+"main.dart.js": "36f702168860f09780ced0be59e54026",
 "manifest.json": "5d5d9fc3fe1e360047184805d089aef8",
 "splash/img/light-background.png": "c2245d248dcabd22bfbf8113827ef493",
 "version.json": "322dfa94430cc69aa45ce83495f46466"};
